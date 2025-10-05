@@ -111,7 +111,7 @@ Built with ❤️ by ***Tech-Andrew*** — merging aesthetics, usability, and pe
 
 ---
 
-### **📸 Example Screenshot (optional)**
+### **📸 Example Screenshot**
 
 <img width="1918" height="1014" alt="image" src="https://github.com/user-attachments/assets/9486b277-8778-4a8a-9665-89d40cc1905c" />
 
